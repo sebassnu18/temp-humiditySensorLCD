@@ -6,3 +6,6 @@ You will need:
 - jumper wires
 - ultrasonic sensor
 - potentiometer
+
+# This subheader was adeed  in VSCode
+yes I am a pro coder
