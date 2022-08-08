@@ -7,5 +7,3 @@ You will need:
 - ultrasonic sensor
 - potentiometer
 
-# This subheader was adeed  in VSCode
-yes I am a pro coder
